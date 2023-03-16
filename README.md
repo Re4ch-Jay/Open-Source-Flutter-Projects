@@ -1,4 +1,4 @@
-# Lists of open source Flutter Project 💜
+# Lists of open source Flutter Projects 💜
 
 <a href="https://flutter.dev/">Flutter</a> is an open source framework by <a href="https://developers.google.com/">Google</a> for building beautiful, natively compiled, multi-platform applications from a single codebase.
 
