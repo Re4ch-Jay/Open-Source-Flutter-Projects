@@ -25,8 +25,8 @@ If you have ideas? Start contributing to it.
 #### Contents
 
 - [Calculator](#calculator)
-- [Smart Device, IoT etc.](#smart_device)
-- [Health & Fitness](#health_fitness)
+- [Smart Device, IoT etc.](#smart-device)
+- [Health & Fitness](#health-and-fitness)
 - [Games](#games)
 
 ### Calculator
@@ -41,7 +41,7 @@ If you have ideas? Start contributing to it.
 
 - [Smart Home](https://github.com/Re4ch-Jay/Smart-Home) - Flutter Smart Home UI 🏠
 
-### Health & Fitness
+### Health and Fitness
 
 - [Meditation App](https://github.com/Re4ch-Jay/Meditation_App) - An app that make you calm, relief, relax, and focus 🧘
 
