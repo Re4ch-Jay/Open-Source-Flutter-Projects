@@ -1,6 +1,6 @@
 # Lists of open source Flutter Project 💜
 
-<imga src="https://github.com/Re4ch-Jay/Meditation_App/blob/main/assets/images/demo.png" />
+<img src="https://github.com/Re4ch-Jay/Meditation_App/blob/main/assets/images/demo.png" />
 
 <img align="right" alt="img" src="https://github.com/Re4ch-Jay/Ideal-Weight-Calculator/blob/main/images/home.png" width="50%" height="auto" />
 
